@@ -7,3 +7,4 @@ while count >0 do
 else
   puts "Happy New Year!"
 end
+end
